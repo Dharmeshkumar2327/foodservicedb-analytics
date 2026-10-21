@@ -1,0 +1,16 @@
+# Data exports and local database files
+data/*.csv
+data/*.xlsx
+data/*.bak
+*.mdf
+*.ldf
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Secrets and local config
+.env
+*.local

@@ -1,0 +1,3 @@
+# SQL-only project. No Python packages are required.
+# Database engine: Microsoft SQL Server 2019+.
+# Client tools: SQL Server Management Studio (SSMS) or Azure Data Studio.
